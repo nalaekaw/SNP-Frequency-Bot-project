@@ -1,0 +1,397 @@
+{
+  "rsid": "rs7755898",
+  "variants": [
+    {
+      "allele": "C",
+      "studies": [
+        {
+          "study": "1000Genomes_30X",
+          "frequency": 0.968301,
+          "count": "6201/6404"
+        },
+        {
+          "study": "GnomAD_exomes",
+          "frequency": 0.999411,
+          "count": "1383261/1384076"
+        },
+        {
+          "study": "GnomAD_genomes",
+          "frequency": 0.996295,
+          "count": "133922/134420"
+        },
+        {
+          "study": "KOREAN",
+          "frequency": 0.975685,
+          "count": "2849/2920"
+        },
+        {
+          "study": "Qatari",
+          "frequency": 0.888889,
+          "count": "192/216"
+        },
+        {
+          "study": "SGDP_PRJ",
+          "frequency": 0.5,
+          "count": "2/4"
+        },
+        {
+          "study": "TOMMO",
+          "frequency": 0.984259,
+          "count": "76223/77442"
+        },
+        {
+          "study": "dbGaP_PopFreq",
+          "frequency": 0.991469,
+          "count": "25104/25320"
+        }
+      ]
+    },
+    {
+      "allele": "T",
+      "studies": [
+        {
+          "study": "1000Genomes_30X",
+          "frequency": 0.031699,
+          "count": "203/6404"
+        },
+        {
+          "study": "GnomAD_exomes",
+          "frequency": 0.000589,
+          "count": "815/1384076"
+        },
+        {
+          "study": "GnomAD_genomes",
+          "frequency": 0.003705,
+          "count": "498/134420"
+        },
+        {
+          "study": "KOREAN",
+          "frequency": 0.024315,
+          "count": "71/2920"
+        },
+        {
+          "study": "Qatari",
+          "frequency": 0.111111,
+          "count": "24/216"
+        },
+        {
+          "study": "SGDP_PRJ",
+          "frequency": 0.5,
+          "count": "2/4"
+        },
+        {
+          "study": "TOMMO",
+          "frequency": 0.015741,
+          "count": "1219/77442"
+        },
+        {
+          "study": "dbGaP_PopFreq",
+          "frequency": 0.008531,
+          "count": "216/25320"
+        }
+      ]
+    }
+  ],
+  "frequencies": {
+    "1000Genomes_30X": [
+      {
+        "allele": "C",
+        "allele_count": 6201,
+        "total_count": 6404,
+        "frequency": 0.968301,
+        "study": "1000Genomes_30X",
+        "genome_build": "GRCh38"
+      },
+      {
+        "allele": "T",
+        "allele_count": 203,
+        "total_count": 6404,
+        "frequency": 0.031699,
+        "study": "1000Genomes_30X",
+        "genome_build": "GRCh38"
+      }
+    ],
+    "GnomAD_exomes": [
+      {
+        "allele": "C",
+        "allele_count": 1383261,
+        "total_count": 1384076,
+        "frequency": 0.999411,
+        "study": "GnomAD_exomes",
+        "genome_build": "GRCh38"
+      },
+      {
+        "allele": "T",
+        "allele_count": 815,
+        "total_count": 1384076,
+        "frequency": 0.000589,
+        "study": "GnomAD_exomes",
+        "genome_build": "GRCh38"
+      }
+    ],
+    "GnomAD_genomes": [
+      {
+        "allele": "C",
+        "allele_count": 133922,
+        "total_count": 134420,
+        "frequency": 0.996295,
+        "study": "GnomAD_genomes",
+        "genome_build": "GRCh38"
+      },
+      {
+        "allele": "T",
+        "allele_count": 498,
+        "total_count": 134420,
+        "frequency": 0.003705,
+        "study": "GnomAD_genomes",
+        "genome_build": "GRCh38"
+      }
+    ],
+    "KOREAN": [
+      {
+        "allele": "C",
+        "allele_count": 2849,
+        "total_count": 2920,
+        "frequency": 0.975685,
+        "study": "KOREAN",
+        "genome_build": "GRCh37"
+      },
+      {
+        "allele": "T",
+        "allele_count": 71,
+        "total_count": 2920,
+        "frequency": 0.024315,
+        "study": "KOREAN",
+        "genome_build": "GRCh37"
+      }
+    ],
+    "Qatari": [
+      {
+        "allele": "C",
+        "allele_count": 192,
+        "total_count": 216,
+        "frequency": 0.888889,
+        "study": "Qatari",
+        "genome_build": "GRCh37"
+      },
+      {
+        "allele": "T",
+        "allele_count": 24,
+        "total_count": 216,
+        "frequency": 0.111111,
+        "study": "Qatari",
+        "genome_build": "GRCh37"
+      }
+    ],
+    "SGDP_PRJ": [
+      {
+        "allele": "C",
+        "allele_count": 2,
+        "total_count": 4,
+        "frequency": 0.5,
+        "study": "SGDP_PRJ",
+        "genome_build": "GRCh37"
+      },
+      {
+        "allele": "T",
+        "allele_count": 2,
+        "total_count": 4,
+        "frequency": 0.5,
+        "study": "SGDP_PRJ",
+        "genome_build": "GRCh37"
+      }
+    ],
+    "TOMMO": [
+      {
+        "allele": "C",
+        "allele_count": 76223,
+        "total_count": 77442,
+        "frequency": 0.984259,
+        "study": "TOMMO",
+        "genome_build": "GRCh38"
+      },
+      {
+        "allele": "T",
+        "allele_count": 1219,
+        "total_count": 77442,
+        "frequency": 0.015741,
+        "study": "TOMMO",
+        "genome_build": "GRCh38"
+      }
+    ],
+    "dbGaP_PopFreq": [
+      {
+        "allele": "C",
+        "allele_count": 25104,
+        "total_count": 25320,
+        "frequency": 0.991469,
+        "study": "dbGaP_PopFreq",
+        "genome_build": "GRCh38"
+      },
+      {
+        "allele": "T",
+        "allele_count": 216,
+        "total_count": 25320,
+        "frequency": 0.008531,
+        "study": "dbGaP_PopFreq",
+        "genome_build": "GRCh38"
+      }
+    ]
+  },
+  "primary_assembly_data": null,
+  "reference_snp_id": "7755898",
+  "estimated_genotypes": {
+    "1000Genomes_30X": {
+      "alleles": {
+        "0": {
+          "allele": "C",
+          "frequency": 0.968301
+        },
+        "1": {
+          "allele": "T",
+          "frequency": 0.031699
+        }
+      },
+      "estimated_genotype_frequencies": {
+        "0/0": 0.937607,
+        "0/1": 0.061388,
+        "1/1": 0.001005
+      },
+      "total_alleles": 6404,
+      "note": "Рассчитано по Харди-Вайнбергу"
+    },
+    "GnomAD_exomes": {
+      "alleles": {
+        "0": {
+          "allele": "C",
+          "frequency": 0.999411
+        },
+        "1": {
+          "allele": "T",
+          "frequency": 0.000589
+        }
+      },
+      "estimated_genotype_frequencies": {
+        "0/0": 0.998822,
+        "0/1": 0.001177,
+        "1/1": 0.0
+      },
+      "total_alleles": 1384076,
+      "note": "Рассчитано по Харди-Вайнбергу"
+    },
+    "GnomAD_genomes": {
+      "alleles": {
+        "0": {
+          "allele": "C",
+          "frequency": 0.996295
+        },
+        "1": {
+          "allele": "T",
+          "frequency": 0.003705
+        }
+      },
+      "estimated_genotype_frequencies": {
+        "0/0": 0.992604,
+        "0/1": 0.007383,
+        "1/1": 1.4e-05
+      },
+      "total_alleles": 134420,
+      "note": "Рассчитано по Харди-Вайнбергу"
+    },
+    "KOREAN": {
+      "alleles": {
+        "0": {
+          "allele": "C",
+          "frequency": 0.975685
+        },
+        "1": {
+          "allele": "T",
+          "frequency": 0.024315
+        }
+      },
+      "estimated_genotype_frequencies": {
+        "0/0": 0.951961,
+        "0/1": 0.047448,
+        "1/1": 0.000591
+      },
+      "total_alleles": 2920,
+      "note": "Рассчитано по Харди-Вайнбергу"
+    },
+    "Qatari": {
+      "alleles": {
+        "0": {
+          "allele": "C",
+          "frequency": 0.888889
+        },
+        "1": {
+          "allele": "T",
+          "frequency": 0.111111
+        }
+      },
+      "estimated_genotype_frequencies": {
+        "0/0": 0.790124,
+        "0/1": 0.197531,
+        "1/1": 0.012346
+      },
+      "total_alleles": 216,
+      "note": "Рассчитано по Харди-Вайнбергу"
+    },
+    "SGDP_PRJ": {
+      "alleles": {
+        "0": {
+          "allele": "C",
+          "frequency": 0.5
+        },
+        "1": {
+          "allele": "T",
+          "frequency": 0.5
+        }
+      },
+      "estimated_genotype_frequencies": {
+        "0/0": 0.25,
+        "0/1": 0.5,
+        "1/1": 0.25
+      },
+      "total_alleles": 4,
+      "note": "Рассчитано по Харди-Вайнбергу"
+    },
+    "TOMMO": {
+      "alleles": {
+        "0": {
+          "allele": "C",
+          "frequency": 0.984259
+        },
+        "1": {
+          "allele": "T",
+          "frequency": 0.015741
+        }
+      },
+      "estimated_genotype_frequencies": {
+        "0/0": 0.968766,
+        "0/1": 0.030986,
+        "1/1": 0.000248
+      },
+      "total_alleles": 77442,
+      "note": "Рассчитано по Харди-Вайнбергу"
+    },
+    "dbGaP_PopFreq": {
+      "alleles": {
+        "0": {
+          "allele": "C",
+          "frequency": 0.991469
+        },
+        "1": {
+          "allele": "T",
+          "frequency": 0.008531
+        }
+      },
+      "estimated_genotype_frequencies": {
+        "0/0": 0.983011,
+        "0/1": 0.016916,
+        "1/1": 7.3e-05
+      },
+      "total_alleles": 25320,
+      "note": "Рассчитано по Харди-Вайнбергу"
+    }
+  }
+}
